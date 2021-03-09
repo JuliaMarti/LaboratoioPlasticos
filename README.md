@@ -5,13 +5,14 @@ Tarea a realizar:
 1.   Maquetación gráfica de página Web 
 2.    Aplicación PHP 
 
-1.   Maquetación gráfica de página Web
+
+## 1.   Maquetación gráfica de página Web
 
 La tarea consistía en realizar la maquetación de los 4(cuatro) primeros fotogramas/frames del diseño adjunto de https://www.osoletest.es/test/labplasticos
 
  
 
-2.    Aplicación PHP 
+## 2.    Aplicación PHP 
 
 La aplicación consiste en el control de acceso y administración de usuarios. Para ello el usuario debe ingresar su nombre de usuario y contraseña. Una vez que ha ingresado, se permite acceder a:
 
