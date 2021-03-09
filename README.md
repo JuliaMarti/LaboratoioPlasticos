@@ -1,4 +1,4 @@
-# Laboratoio Plasticos
+# Laboratorio Plasticos
 
 Tarea a realizar:
  
